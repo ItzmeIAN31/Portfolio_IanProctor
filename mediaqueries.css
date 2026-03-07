@@ -1,0 +1,10 @@
+@media screen and (max-width: 1200px){  /*kun an screen size han desktop nav lower than
+     that max width an desktop nav mawawara and hamburger nav=for mobile ma appear*/
+    #desktop-nav {
+        display: none;
+        
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+}
