@@ -38,7 +38,7 @@ nav {
 .nav-links {
     gap: 2rem; /* gap han links para magburublag    */
     list-style: none;
-    font-size: 1.5rem; /*kadako han font */ 
+  font-size: 1.5rem;   /*  kadako han font  */ 
 }
 a {
     color: black;
@@ -199,10 +199,7 @@ section {
 }
 
 
-#socials-container {
-    background-color: white;
-    mix-blend-mode: lighten;
-}
+
 
 
 /*icons */
@@ -219,7 +216,7 @@ section {
 .btn {
     font-weight: 600;  
     transition: all 300ms ease;
-    padding: 1rem;
+    padding: 1rem;  /* padding kumbaga space niya ha sulod han border */
     border-radius: 2rem;
 }
 
